@@ -1,5 +1,7 @@
 // This is a demo of rendering text using the stb_truetype.h library.
 //
+// Details here: https://sinf.org/opengl-text-using-stb_truetype/
+//
 // Not meant for production use: There is no  memory management, error handling
 // and things like opengl buffer/arrays/textures are set-and-forget.
 //
